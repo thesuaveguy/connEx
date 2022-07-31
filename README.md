@@ -48,7 +48,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/thesuaveguy
+$ git clone https://github.com/thesuaveguy/connEx
 
 # Install dependencies
 $ npm install
